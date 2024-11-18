@@ -1,0 +1,5 @@
+# 这是输出目录的路径
+output_directory=D:\\zc\\ZC\\video 
+
+# 这是用于身份验证的cookies
+cookies=SESSDATA=106f21f0%2C1747378414%2C2b48f%2Ab2CjCcfjQTsh0ZJEH0bkuKQn--eGgALObuqvQlEmnmTQ8emhsbYDehvsX__5yty4eG3CsSVll1TllsdWRETWJ2OFp0ZzA2dDJBZ1Q1WUxPVlBIOWk0VDJQV3lOVjZsZ0Z1cnNLc0ZibWpKT0h6MzZncGtZQUYyWjVXOUIyR2JLM0VzWFFiVnotYVJBIIEC;
